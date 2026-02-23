@@ -55,7 +55,9 @@ Step 9: Prepare the README.md File
              students, botanists, or gardeners who want a quick and easy way to identify cactus types without expert knowledge. By leveraging Teachable Machine, the model                makes cactus species recognition accessible and can be embedded into a website or app for real-time identification.  
 
       B. Plant Species Section      
-          1  <img width="240" height="237" alt="image" src="https://github.com/user-attachments/assets/43132b6a-7b2f-4eb5-80d1-89c8261839f8" />
+             
+          1. <img width="220" height="207" alt="image" src="https://github.com/user-attachments/assets/c03e812d-60a9-42bd-8bdd-a0ee954c592d" />
+
                Common name: Red Thorn Cactus
                Scientific name: Echinocactus grusonii
                Description: A striking barrel-shaped cactus featuring vibrant red or reddish-brown spines that create a dramatic contrast against its green body. This   
@@ -68,20 +70,20 @@ Step 9: Prepare the README.md File
                             multiple upright branches. This fast-growing cactus can reach heights of 12-15 feet and produces small white flowers followed by edible purple                               berries. The powdery blue coating helps reflect sunlight and conserve water.
 
 
-          3.  <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/4216aa84-61e8-4f20-b0d5-7bf6ba429e07" />
+          3.  
                Common name: Peanut Cactus
                Scientific name: Echinopsis chamaecereus
                Description: A low-growing, clustering cactus with finger-like stems that resemble peanuts, hence its common name. It produces brilliant orange-red tubular 
                flowers in spring and summer. The stems are covered with soft, short spines and readily form dense mats. This easy-to-grow cactus is perfect for beginners  
                and produces stunning blooms that can completely cover the plant.
              
-         4.  <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/65420b20-b6f8-45be-8468-25f2f9cfa05d" />
+         4.  
                Common name: Joseph Coat Cactus 
                Scientific name: Opuntia monacantha variegata
                Description: A spectacular variegated prickly pear featuring flat,paddle-shaped pads with stunning cream, pink, and purple coloration. The variegation   
                             creates a mottled,multi-colored appearance that resembles Joseph's coat from biblical stories. New growth is particularly vibrant with pink and                              red tones. This ornamental cactus is prized more for its foliage than its flowers.
              
-         5.  <img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/8eef72fe-8cc7-43dc-8cc6-5ad26fc6785d" />
+         5. 
                Common name: Angel Wing Cactus
                Scientific name: Opuntia microdasys
                Description: A distinctive pad-shaped cactus covered in dense clusters of white glochids (tiny hair-like spines) that give it a soft, fuzzy appearance 
@@ -120,56 +122,79 @@ Step 9: Prepare the README.md File
 
         10.   
                Common name: Totem Pole Cactus
-               Scientific name:
-               Description:
+               Scientific name: Pachycereus schottii f. monstrosus
+               Description: A remarkable spineless cactus with smooth, lumpy stems that resemble carved wooden totem poles. This mutation of the Whisker Cactus grows in                                 tall, columnar formations with irregular bumps and knobs along its surface. The smooth, green skin has a sculptural quality and the stems can   
+                            branch to create impressive vertical displays. It rarely flowers but makes a striking architectural statement in landscapes and containers.
+
 
         11.   
                Common name: Corn Cob Cactus
-               Scientific name:
-               Description:
+               Scientific name: Euphorbia mammillaris
+               Description: A small succulent euphorbia (not a true cactus) with cylindrical stems covered in tubercles that resemble kernels on a corn cob. The stems are 
+                            typically green with reddish-brown tubercles arranged in spiral patterns. It produces small cyathia (flower-like structures) at the stem tips. 
+                            Some varieties have attractive variegation with cream and pink coloring. Forms dense clusters and makes an interesting textural addition to 
+                            succulent collections.
+
 
 
         12.   
                Common name: Thimble Cactus
-               Scientific name:
-               Description:
+               Scientific name: Mammillaria gracilis
+               Description: A charming miniature cactus that forms dense clusters of small, thimble-sized cylindrical stems. Each stem is covered with soft white spines and 
+                            fuzzy areoles. It readily produces offsets that detach easily, making propagation simple. Small cream or yellow flowers appear in a ring near 
+                            the stem tips in spring. This easy-to-grow species is perfect for small pots and fairy gardens.
+
 
         13.   
                Common name: Pine Cone Cactus
-               Scientific name:
-               Description:         
+               Scientific name: Tephrocactus articulatus
+               Description: An unusual cactus with segments that resemble gray-white pine cones loosely stacked on top of each other. Each joint is roughly spherical or egg-
+                            shaped with a papery, almost scale-like texture. The segments have areoles with glochids and sometimes long spines. The loose jointing allows 
+                            segments to detach easily. White or pale yellow flowers appear in summer. This distinctive cactus has a primitive, almost prehistoric 
+                            appearance.         
      
         14.   
                Common name: Paper Spine Cactus
-               Scientific name:
-               Description:
+               Scientific name: Tephrocactus articulatus var. papyracanthus
+               Description: A striking variety of the Pine Cone Cactus featuring remarkable flat, papery spines that look like twisted pieces of white paper. These                                      flexible, blade-like spines can grow several inches long and create a dramatic appearance. The gray-green segments are rounded and loosely 
+                            joined. The paper-thin spines are actually modified leaves and help shade the plant while reducing water loss. A true collector's piece.
 
         15.   
                Common name: Domino Cactus
-               Scientific name:
-               Description:
+               Scientific name: Echinopsis subdenudata
+               Description: A small, dark green globular cactus with prominent ribs and distinctive white areoles that create a domino or polka-dot pattern. It produces 
+                            large, spectacular white funnel-shaped flowers that can be 6-8 inches long and wonderfully fragrant. The flowers typically bloom at night and 
+                            last only a day or two. Despite its small size (typically 2-4 inches), the blooms are disproportionately large and showy, making it a favorite 
+                            among collectors.
+
 
         16.   
                Common name: Star Cactus
-               Scientific name:
-               Description:
+               Scientific name: Astrophytum asterias
+               Description: The Star Cactus (Astrophytum asterias) is a small, spineless, globe-shaped succulent, resembling a greenish-brown, white-speckled sea urchin,   
+                            typically 0.7–6 inches across. It is characterized by 8 distinct ribs, a flat-topped, disk-like shape with woolly, white-dotted indentations,                                and produces striking yellow flowers with orange-red centers
                              
         17.   
                Common name: Bishop’s Cap Cactus
-               Scientific name:
-               Description:
+               Scientific name: Astrophytum myriostigma
+               Description: An unusual spineless cactus with a distinctive star-shaped appearance when viewed from above, typically with five (sometimes 3-8) prominent 
+                            ribs. The surface is covered with tiny white dots (trichomes) that give it a grayish or silvery appearance. The geometric shape resembles a 
+                            bishop's ceremonial cap or mitre. Yellow flowers with red centers appear at the crown. This slow-growing cactus is prized for its perfect 
+                            symmetry and sculptural form.
 
         18.   
                Common name: Fishbone Cactus
-               Scientific name:
-               Description:                  
+               Scientific name: Disocactus anguliger
+               Description: The fishbone cactus (Disocactus anguliger or Epiphyllum anguliger) is a fast-growing, vining, epiphytic cactus from Mexico, renowned for its  
+                            distinct, zigzag-patterned stems that resemble fish skeletons. It produces fragrant,, night-blooming white or pinkish flowers and is ideal for                               hanging baskets or trailing on shelves.                  
        
         19.   
                Common name: Moon Cactus
-               Scientific name:
-               Description:
+               Scientific name: Gymnocalycium mihanovichii 
+               Description: A colorful globular cactus featuring brilliant red, orange, yellow, or pink tops grafted onto a green rootstock cactus. The colorful top portion                             lacks chlorophyll and cannot survive on its own, requiring the green base for photosynthesis. The vibrant colored ball produces offsets and may                              flower with small pink or white blooms. These popular cacti are living conversation pieces but typically have shorter lifespans (2-3 years) due                              to the graft.
+
                
         20.   
                Common name: Cholla Cactus
-               Scientific name:
-               Description:       
+               Scientific name: Cylindropuntia fulgida
+               Description: Cholla cactus (Cylindropuntia spp.) is a highly distinctive, spiny, and segmented succulent native to North American deserts, growing 3 to 15                                feet tall with a shrub or tree-like habit. Characterized by cylindrical, easily detached joints and dense, silvery-yellow, barbed spines that                                "jump" onto passersby, they bloom in spring/summer with shades of green, yellow, or pink       
